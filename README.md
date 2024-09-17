@@ -3,7 +3,7 @@ Name: J STANES JENSON
 Company: CODTECH IT SOLUTIONS.
 1D: CT08DS7325
 Domain: Data Science
-Duration: Auguest to September 2024
+Duration: August to September 2024
 Mentor: SRAVANI GOUNI
 Overview of the Project
 
